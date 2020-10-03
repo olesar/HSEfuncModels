@@ -2,7 +2,7 @@
 Страница курса, магистратура DH, НИУ ВШЭ
 Преподаватель: О.Н.Ляшевская
 
-<a href="https://olesar.github.io//HSEfuncModels">Страница курса</a> &#129303; <a href="https://docs.google.com/spreadsheets/d/12HNOEf3YqSWItotPnMNUE-EYlQiRwdKHkJClqWoswt0/edit?usp=sharing">Семинары</a> &#128523; <a href="Zevaluation.pdf">Формула оценки</a> &#128526; <a href="https://forms.gle/4H9gAsNQdMjgW3zq9">Опросник</a> &#129303; <a href="https://www.hse.ru/data/2019/09/13/1491353525/program-2878062487-uf5AlLWh0p.pdf">Программа на сайте ВШЭ</a>
+<a href="https://olesar.github.io/HSEfuncModels">Страница курса</a> &#129303; <a href="https://docs.google.com/spreadsheets/d/12HNOEf3YqSWItotPnMNUE-EYlQiRwdKHkJClqWoswt0/edit?usp=sharing">Семинары</a> &#128523; <a href="Zevaluation.pdf">Формула оценки</a> &#128526; <a href="https://forms.gle/4H9gAsNQdMjgW3zq9">Опросник</a> &#129303; <a href="https://www.hse.ru/data/2019/09/13/1491353525/program-2878062487-uf5AlLWh0p.pdf">Программа на сайте ВШЭ</a>
 
 #### 1. Вводная лекция 
 Основные идеи и понятия функциональной и когнитивной лингвистики. Функции языка и модели общения. Изучение языка как часть изучения поведения индивидуума и социума. Эмпирический подход в лингвистике.    
@@ -27,9 +27,9 @@ Image schema. Топологические типы. Фиктивное движ
 К.Бругман. Профилирование радиальной категории: синонимы. Фреймы. Семантические карты. Метафора и метонимия. Блендинг.  
 Презентация: <!---<a href="4Metaphor.pdf">Link</a>
 --->
-Чтение:  
-* A. Tyler, A. Evans, Reconsidering Prepositional Polysemy Networks: The Case of Over <a href="https://munin.uit.no/bitstream/handle/10037/3846/article.pdf">Two ways to get out: Radial Category Profiling and the Russian prefixes vy- and iz-</a> 
-* Nesset et al. "Two ways to get out: radial category profiling and the Russian prefixes vy- and iz-." (2011). <a href="https://www.semanticscholar.org/paper/Reconsidering-Prepositional-Polysemy-Networks%3A-The-Tyler-Evans/53f85e6b58f8e1822ef4d64475e1bf5cce30711e">Two ways to get out: Radial Category Profiling and the Russian prefixes vy- and iz-</a>  
+Чтение:   
+* A. Tyler, A. Evans, Reconsidering Prepositional Polysemy Networks: The Case of Over <a href="https://www.jstor.org/stable/pdf/3086846.pdf">pdf</a>  
+* Nesset et al. (2001) Two ways to get out: radial category profiling and the Russian prefixes vy- and iz-. <a href="https://munin.uit.no/bitstream/handle/10037/3846/article.pdf">pdf</a> 
 
 Домашнее задание:
 [Радиальная схема значений](ДЗ_полисемия.md) многозначного глагола. Срок сдачи 6 октября (на семинаре)    
