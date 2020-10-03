@@ -32,7 +32,7 @@ Image schema. Топологические типы. Фиктивное движ
 * Nesset et al. "Two ways to get out: radial category profiling and the Russian prefixes vy- and iz-." (2011). <a href="https://www.semanticscholar.org/paper/Reconsidering-Prepositional-Polysemy-Networks%3A-The-Tyler-Evans/53f85e6b58f8e1822ef4d64475e1bf5cce30711e">Two ways to get out: Radial Category Profiling and the Russian prefixes vy- and iz-</a>  
 
 Домашнее задание:
-Радиальная структура многозначного глагола. Срок сдачи 6 октября (на семинаре)    
+[Радиальная схема значений](ДЗ_полисемия.md) многозначного глагола. Срок сдачи 6 октября (на семинаре)    
 
 
 <!---#### Семинар-коллоквиум. Выступление по статьям--->
@@ -56,6 +56,7 @@ Image schema. Топологические типы. Фиктивное движ
 <a href="ДЗ_инфструктура.pdf">Link</a>. Срок сдачи 20 декабря (на семинаре). Онлайн-сдача: (lms.hse.ru)[https://lms.hse.ru], на странице дисциплины вкладка Проекты > Информационная структура и порядок слов  
 --->
 #### 7. Усвоение языка  
+<!---
 Критика универсальной грамматики Хомского: усвоение языка как часть когнитивных и социально-коммуникативных навыков ребенка. Intention-reading, pattern-finding, entrenchment, grammaticalization. Usage-based model: усвоение слов, ранних синтаксических конструкций и более сложных единиц. Психолингвистическая модель усвоения и порождения. Усвоение языка у аутистов.  
 Презентация: <a href="Acquisition.pdf">Link</a>  
 --->
