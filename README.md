@@ -49,6 +49,11 @@ Image schema. Топологические типы. Фиктивное движ
 Собрать данные для следующей темы  <a href="ДЗ_эксперимент.pdf">Link</a>. Срок до 13 ноября. Просьба положить записи в LMS, ближе к делу я пришлю ссылку.   
 --->
 
+Чтение:   
+* Haspelmath, Martin (2008) Comparative concepts and descriptive categories in crosslinguistic studies [PDF](https://www.researchgate.net/publication/47613101_Comparative_concepts_and_descriptive_categories_in_crosslinguistic_studies)  
+* Croft, William (2019) Comparative concepts and practicing typology: on Haspelmath’s proposal for “flagging” and “(person) indexing. [PDF](https://nzlingsoc.org/wp-content/uploads/2019/09/7_Croft.pdf)  
+* Goldberg, Adele E., Laura Suttle (2010) Construction grammar [PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/wcs.22)
+
 #### 6. Информационная структура  
 <!---Компоненты высказывания: ассерция, следствие, конвенциональная импликатура, конверсациональная импликатура. Речевой акт и его участники. Место и роль говорящего и слушающего. Оценка важности: гипотезы говорящего относительно знаний слушающего. Тема ‒ рема (работы Пражской школы). Салиентность. Данное ‒ новое. Презумпция ‒ ассерция. Фигура ‒ фон. Профилирование. Конструал и грамматическая организация высказывания. Фокус внимания. Дейксис как инструмент описания (говорящий и наблюдатель). Максимы Грайса. 
 Семинар: <a href="InfStructure.md">Link</a>  
