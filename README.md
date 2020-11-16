@@ -2,7 +2,7 @@
 Страница курса, магистратура DH, НИУ ВШЭ
 Преподаватель: О.Н.Ляшевская
 
-<a href="https://olesar.github.io/HSEfuncModels">Страница курса</a> &#129303; <a href="https://docs.google.com/spreadsheets/d/1i3kNbZmQjq7pwX0ajfVjQf7Sx0SMOTQ-w06SQYOGa2s/edit?usp=sharing">Семинары</a> &#128523; <a href="Zevaluation.pdf">Формула оценки</a> &#128526; <a href="https://forms.gle/4H9gAsNQdMjgW3zq9">Опросник</a> &#129303; <a href="https://www.hse.ru/data/2019/09/13/1491353525/program-2878062487-uf5AlLWh0p.pdf">Программа на сайте ВШЭ</a>
+<a href="https://olesar.github.io/HSEfuncModels">Страница курса</a> &#129303; <a href="https://docs.google.com/spreadsheets/d/1i3kNbZmQjq7pwX0ajfVjQf7Sx0SMOTQ-w06SQYOGa2s/edit?usp=sharing">Семинары</a> &#128523; <a href="Zevaluation.pdf">Формула оценки</a> &#128526; <a href="https://forms.gle/F2YKMvvjxVSaxBpk6">Пост-опросник</a> &#129303; <a href="https://www.hse.ru/data/2019/09/13/1491353525/program-2878062487-uf5AlLWh0p.pdf">Программа на сайте ВШЭ</a>
 
 #### 1. Вводная лекция 
 Основные идеи и понятия функциональной и когнитивной лингвистики. Функции языка и модели общения. Изучение языка как часть изучения поведения индивидуума и социума. Эмпирический подход в лингвистике.    
